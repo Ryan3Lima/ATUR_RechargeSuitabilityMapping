@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+<journal-meta>
+<journal-id></journal-id>
+
+<journal-title-group>
+<journal-title>Journal Name</journal-title>
+</journal-title-group>
+<issn></issn>
+
+<publisher>
+<publisher-name></publisher-name>
+</publisher>
+</journal-meta>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Opportunistic Recharge Enhacement - an analysis of
+state-wide suitability mapping in Arizona</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-5352-7215</contrib-id>
+<name>
+<surname>Lima</surname>
+<given-names>Ryan E.</given-names>
+</name>
+<string-name>Ryan E. Lima</string-name>
+
+<email>ryan.lima@nau.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Gupta</surname>
+<given-names>Neha</given-names>
+</name>
+<string-name>Neha Gupta</string-name>
+
+<email>nehagupta@arizona.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="corresp" rid="cor-2">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>Northern Arizona University</institution>
+</institution-wrap>
+
+<city>Flagstaff</city>
+<state>Arizona</state>
+
+
+
+
+</aff>
+<aff id="aff-2">
+<institution-wrap>
+<institution>University of Arizona</institution>
+</institution-wrap>
+
+<city>Tucson</city>
+<state>Arizona</state>
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-2">nehagupta@arizona.edu</corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="sec-intro">
+  <title>1 Introduction</title>
+</sec>
+<sec id="sec-conclusions">
+  <title>2 Conclusion</title>
+</sec>
+<sec id="references">
+  <title>References</title>
+</sec>
+</body>
+
+<back>
+</back>
+
+<sub-article article-type="notebook" id="nb-6-nb-article">
+<front-stub>
+<title-group>
+<article-title>Opportunistic Recharge Enhacement - an analysis of
+state-wide suitability mapping in Arizona</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-5352-7215</contrib-id>
+<name>
+<surname>Lima</surname>
+<given-names>Ryan E.</given-names>
+</name>
+<string-name>Ryan E. Lima</string-name>
+
+<email>ryan.lima@nau.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Gupta</surname>
+<given-names>Neha</given-names>
+</name>
+<string-name>Neha Gupta</string-name>
+
+<email>nehagupta@arizona.edu</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-2-nb-article">b</xref>
+<xref ref-type="corresp" rid="cor-2-nb-article">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1-nb-article">
+<institution-wrap>
+<institution>Northern Arizona University</institution>
+</institution-wrap>
+
+<city>Flagstaff</city>
+<state>Arizona</state>
+
+
+
+
+</aff>
+<aff id="aff-2-nb-article">
+<institution-wrap>
+<institution>University of Arizona</institution>
+</institution-wrap>
+
+<city>Tucson</city>
+<state>Arizona</state>
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-2-nb-article">nehagupta@arizona.edu</corresp>
+</author-notes>
+</front-stub>
+
+<body>
+<sec id="cell-1-nb-article" specific-use="notebook-content">
+<sec id="sec-intro-nb-article">
+  <title>1 Introduction</title>
+  </sec>
+  <sec id="cell-2-nb-article" specific-use="notebook-content">
+</sec>
+<sec id="sec-conclusions-nb-article">
+  <title>2 Conclusion</title>
+  </sec>
+  <sec id="cell-3-nb-article" specific-use="notebook-content">
+</sec>
+<sec id="references-nb-article">
+  <title>References</title>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
+</back>
+
+
+</sub-article>
+<sub-article article-type="notebook" id="nb-3-nb-1">
+<front-stub>
+<title-group>
+<article-title>Literature Reviewed</article-title>
+</title-group>
+</front-stub>
+
+<body>
+<sec id="cell-40688294-8561-4a82-9e6f-6947a78ffbaf-nb-1" specific-use="notebook-content">
+<code language="python">---
+title: Literature Review for Opportunistic Recharge Enhancement
+author: Ryan E Lima
+number-sections: true
+---</code>
+</sec>
+<sec id="cell-936aed82-f69e-41a2-8d6b-abc9da9cd502-nb-1" specific-use="notebook-content">
+<p><bold>Uncovering the gaps in manage aquifer recharge for sustainabile
+groundwater: A focus on hillslopes and mountains</bold>
+[@meles_uncovering_2024]</p>
+<p><italic>Key findings:</italic></p>
+<disp-quote>
+  <list list-type="order">
+    <list-item>
+      <p>This paper recommends using mountain/hillslope managed aquifer
+      recharge Hillslope-MAR and water chaptured by roadside channel
+      networks as a potential new source and setting for MAR
+      applications.</p>
+    </list-item>
+    <list-item>
+      <p>Suggests that road system-based managed aquifer recharge
+      (Road-MAR) could have high potential for enhancing recharge
+      through things like infiltrations channels.</p>
+    </list-item>
+    <list-item>
+      <p>Roads on mountain sides and hillslopes passing through areas
+      with high concentrations of lineaments could be suitable areas</p>
+    </list-item>
+  </list>
+</disp-quote>
+<p><italic>Keywords:</italic></p>
+<p>Managed Aquifer Recharge (MAR); Attenuation Zone, Groundwater,
+Lineaments/Faults, Hillslope-MAR, Road-MAR</p>
+</sec>
+<sec id="cell-84d27216-05a7-49de-873b-0340dd2a2cbf-nb-1" specific-use="notebook-content">
+<p><bold>Mountain-Block Recharge: A Review of Current
+Understanding</bold> [@markovich_mountainblock_2019]</p>
+<p><italic>Key findings:</italic></p>
+<disp-quote>
+  <list list-type="order">
+    <list-item>
+      <p>Mountain-block recharge confirmed as important source of
+      recharge to basin aquifers in a variety of climatic and geologic
+      settings globally.</p>
+    </list-item>
+    <list-item>
+      <p>Recent work advanced the understanding of fundamental controls
+      on mountain-block recharge ans somewhat improved methods for
+      characterization.</p>
+    </list-item>
+    <list-item>
+      <p>Future research should aim to acquire subsurface data in
+      mountain blocks and at the mountain front.</p>
+    </list-item>
+  </list>
+</disp-quote>
+<p><italic>Keywords:</italic></p>
+<p>Mountain Front Recharge (MFR), Mountain Block Recharge (MBR), Aquifer
+Recharge, Review</p>
+</sec>
+<sec id="abc8b30b-b46c-46f6-99f9-f4fe62b139a5-nb-1" specific-use="notebook-content">
+<p><bold>Mountain-block hydrology and mountain-front recharge</bold>
+[@hogan_mountain-block_2004]</p>
+<p><italic>Key findings:</italic></p>
+<disp-quote>
+  <list list-type="order">
+    <list-item>
+      <p>Explains the general processes at work in Mountain fronts and
+      Mountain blocks</p>
+    </list-item>
+    <list-item>
+      <p>Provides practical advice for delineating the mountain front
+      and the mountain block</p>
+    </list-item>
+  </list>
+</disp-quote>
+<p><italic>Keywords:</italic></p>
+<p>Mountain Front Zone, Mountain Block</p>
+</sec>
+<sec id="cell-58011e92-ccc8-4b66-865a-6604888f3bc8-nb-1" specific-use="notebook-content">
+<p><bold>Title</bold> [citation]</p>
+<p><italic>Key findings:</italic></p>
+<disp-quote>
+  <list list-type="order">
+    <list-item>
+      <p>text</p>
+    </list-item>
+  </list>
+</disp-quote>
+<p><italic>Keywords:</italic></p>
+</sec>
+<sec id="cell-86a9743f-574a-4db2-a4d4-5437b0f81a6e-nb-1" specific-use="notebook-content">
+<code language="python">## References {.unnumbered}
+
+:::{#refs}
+
+:::</code>
+</sec>
+</body>
+
+
+
+<back>
+</back>
+
+
+</sub-article>
+
+</article>
